@@ -53,7 +53,7 @@ A user or curator lists a pre-packaged dataset with a specific price. An institu
 
 ---
 
-## 👥 Roles in Wrangle
+##  Roles in Wrangle
 
 | Role        | Capabilities                                                                 |
 |-------------|-------------------------------------------------------------------------------|
