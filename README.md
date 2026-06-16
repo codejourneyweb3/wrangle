@@ -6,7 +6,7 @@
 
 ##  General Overview
 
-In the current healthcare landscape, patient data is often siloed or sold by third parties without the patient’s direct consent or profit. **Sovereign Health** changes this dynamic by:
+In the current healthcare landscape, patient data is often siloed or sold by third parties without the patient’s direct consent or profit. **Wrangle** changes this dynamic by:
 
 - **Empowering Users:** Individuals can upload their healthcare records, encrypt them, and choose to list them for sale.
 - **Facilitating Research:** Institutions and data brokers can browse curated datasets or broadcast custom requests for specific data types (e.g., *Diabetes patients, aged 30–50*).
